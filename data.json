@@ -17,6 +17,12 @@
 			"title": "John's Boombox #1",
 			"price": 999.99,
 		}
+		,
+		{
+			"id": 100,
+			"title": "John's Boombox #2",
+			"price": 20.99,
+		}
 	]
 }
 
