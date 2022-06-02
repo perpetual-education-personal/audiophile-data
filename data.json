@@ -11,6 +11,11 @@
 			"id": 1,
 			"title": "Speaker #2",
 			"price": 80.99,
+		},
+		{
+			"id": 1,
+			"title": "Speaker #3 - burooj test",
+			"price": 80.99,
 		}
 	]
 }
