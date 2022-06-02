@@ -1,0 +1,17 @@
+{
+	"id": 1,
+	"title": "Audiophile data",
+	"products": [
+		{
+			"id": 0,
+			"title": "Speaker #1",
+			"price": 40.99,
+		},
+		{
+			"id": 1,
+			"title": "Speaker #2",
+			"price": 80.99,
+		}
+	]
+}
+

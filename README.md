@@ -7,6 +7,3 @@ Some collected data for our audiofile e-commerse template
 - [ ] unchecked
 - [x] checked 
 
-# Deployement
-
-sakjdf;kfsajd
