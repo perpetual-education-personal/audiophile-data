@@ -36,6 +36,11 @@
 			"id": 10,
 			"title": "Microphone",
 			"price": 109.99
+		},
+		{
+			"id": 9999,
+			"title": "Rock box",
+			"price": 200000
 		}
 	]
 }
