@@ -5,17 +5,23 @@
 		{
 			"id": 0,
 			"title": "Example product title",
-			"price": 40.99,
+			"price": 40.99
 		},
 		{
 			"id": 1,
 			"title": "Speaker #2",
-			"price": 80.99,
+			"price": 80.99
 		},
 		{
 			"id": 1,
 			"title": "Speaker #3",
-			"price": 70.99,
+			"price": 70.99
+		},
+
+		{
+			"id": 10,
+			"title": "Microphone",
+			"price": 109.99
 		}
 	]
 }
