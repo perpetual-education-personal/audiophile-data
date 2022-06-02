@@ -4,7 +4,7 @@
 	"products": [
 		{
 			"id": 0,
-			"title": "Speaker #1",
+			"title": "Example product title",
 			"price": 40.99,
 		},
 		{
