@@ -13,6 +13,11 @@
 			"price": 80.99,
 		},
 		{
+			"id": 99,
+			"title": "Andy Test Item",
+			"price": 0.99,
+		},
+		{
 			"id": 1,
 			"title": "Speaker #3",
 			"price": 70.99,
