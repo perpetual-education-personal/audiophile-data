@@ -17,30 +17,6 @@
 			"title": "Andy Test Item",
 			"price": 0.99,
 		},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 		{
 			"id": 11,
 			"title": "John's Boombox #1",
@@ -56,7 +32,6 @@
 			"title": "Speaker #3",
 			"price": 70.99
 		},
-
 		{
 			"id": 10,
 			"title": "Microphone",
@@ -64,4 +39,3 @@
 		}
 	]
 }
-
