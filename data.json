@@ -5,12 +5,62 @@
 		{
 			"id": 0,
 			"title": "Example product title",
-			"price": 40.99,
+			"price": 40.99
 		},
 		{
 			"id": 1,
 			"title": "Speaker #2",
-			"price": 80.99,
+			"price": 80.99
+		},
+		{
+			"id": 99,
+			"title": "Andy Test Item",
+			"price": 0.99
+		},
+		{
+			"id": 11,
+			"title": "John's Boombox #1",
+			"price": 999.99
+		},
+		{
+			"id": 100,
+			"title": "John's Boombox #2",
+			"price": 20.99
+		},
+		{	
+			"id": 1,
+			"title": "Speaker #3",
+			"price": 70.99
+		},
+		{
+			"id": 10,
+			"title": "Microphone",
+			"price": 109.99
+		},
+		{
+			"id": 29,
+			"title": "Roku Smart Soundbar—Roku® Streambar® Pro",
+			"type" : "Home Theater Media Player",
+			"image": "images/roku.jpeg",
+			"protectionPlan": {
+				"price" : 24.99,
+				"term": "4 years",
+				"review": "96% of reviewers would recommed",
+				"purchased": false
+			},
+			"stock": true,
+			"originalPrice": 179.99,
+			"sale" : "$30 off",
+			"salePrice": 149.99,
+			"payments" : {
+				"numberOf" : 4,
+				"price" : 37.50,
+				"client": "ZIP"
+			},
+			"wishlist": false,
+			"reviews": "4.6 stars out of 5"
+			
+
 		}
 		{
 			"id": 2,
