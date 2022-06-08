@@ -16,17 +16,17 @@
 		{
 			"id": 99,
 			"title": "Andy Test Item",
-			"price": 0.99,
+			"price": 0.99
 		},
 		{
 			"id": 11,
 			"title": "John's Boombox #1",
-			"price": 999.99,
-		}	,
+			"price": 999.99
+		},
 		{
 			"id": 100,
 			"title": "John's Boombox #2",
-			"price": 20.99,
+			"price": 20.99
 		},
 		{	
 			"id": 1,
