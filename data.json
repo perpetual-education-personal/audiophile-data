@@ -5,14 +5,15 @@
 		{
 			"id": 0,
 			"title": "Example product title",
-			"price": 40.99,
+			"price": 40.99
 		},
 		{
 			"id": 1,
 			"title": "Speaker #2",
-			"price": 80.99,
+			"price": 80.99
 		},
 		{
+
 			"id": 2,
 			"title": "Speaker #3",
 			"price": 80.99,
@@ -28,6 +29,31 @@
 			"on-sale" : true,
 			"stock" : ["in-stock", "low", "sold-out"]
 		},
+		{
+			"id": 99,
+			"title": "Andy Test Item",
+			"price": 0.99
+		},
+		{
+			"id": 11,
+			"title": "John's Boombox #1",
+			"price": 999.99
+		},
+		{
+			"id": 100,
+			"title": "John's Boombox #2",
+			"price": 20.99
+		},
+		{	
+			"id": 1,
+			"title": "Speaker #3",
+			"price": 70.99
+		},
+		{
+			"id": 10,
+			"title": "Microphone",
+			"price": 109.99
+		}
 
 	]
 }
