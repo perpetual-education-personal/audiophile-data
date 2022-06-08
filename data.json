@@ -27,7 +27,7 @@
 			"price": 199.99,
 			"options": ["portable", "20+ hour battery life", "bluetooth 5.0", "IPX4 water resistant"],
 			"on-sale": true,
-			"stock": ["in-stock", "low", "sold-out"]
+			"stock": 5,
 		},
 		{
 			"id": 99,
@@ -45,7 +45,7 @@
 			"price": 20.99
 		},
 		{	
-			"id": 1,
+			"id": 45654,
 			"title": "Speaker #3",
 			"price": 70.99
 		},
@@ -55,7 +55,7 @@
 			"price": 109.99
 		},
 		{
-			"id": 9999,
+			"id": "sakjhfdkjsaf67sdf87a",
 			"title": "Rock box",
 			"price": 200000
 		},
@@ -80,7 +80,7 @@
 				"client": "ZIP"
 			},
 			"wishlist": false,
-			"reviews": "4.6 stars out of 5"
+			"reviews": 4.5
 		},
 		{
 			"id": 7,
