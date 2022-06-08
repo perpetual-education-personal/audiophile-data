@@ -12,6 +12,11 @@
 			"title": "Speaker #2",
 			"price": 80.99,
 		}
+		{
+			"id": 2,
+			"title": "Really Cool Record Cabinet",
+			"price": 349.99,
+		}
 	]
 }
 
