@@ -14,6 +14,22 @@
 			"price": 80.99
 		},
 		{
+			"id": 2,
+			"title": "Speaker #3",
+			"price": 80.99
+		},
+		{
+			"image": "https://www.marshallheadphones.com/dw/image/v2/BCQL_PRD/on/demandware.static/-/Sites-zs-master-catalog/default/dw3c9b80df/images/marshall/speakers/stockwell-ii/pitch-black-and-brass/large/Stockwell-II_Brass_POS-1.png",
+			"name": "Marshall Stockwell II",
+			"tagline": "travels light, sounds heavy",
+			"description": "Weighing only 1.4 kg, Stockwell II packs a solid punch despite its pint-sized frame. Utilising True Stereophonic, this speaker provides a multi-directional experience that will immerse you in your music, indoors or out.",
+			"type": "speaker",
+			"price": 199.99,
+			"options": ["portable", "20+ hour battery life", "bluetooth 5.0", "IPX4 water resistant"],
+			"on-sale": true,
+			"stock": ["in-stock", "low", "sold-out"]
+		},
+		{
 			"id": 99,
 			"title": "Andy Test Item",
 			"price": 0.99
@@ -42,6 +58,34 @@
 			"id": 9999,
 			"title": "Rock box",
 			"price": 200000
+		},
+		{
+			"id": 29,
+			"title": "Roku Smart Soundbar—Roku® Streambar® Pro",
+			"type": "Home Theater Media Player",
+			"image": "images/roku.jpeg",
+			"protectionPlan": {
+				"price": 24.99,
+				"term": "4 years",
+				"review": "96% of reviewers would recommed",
+				"purchased": false
+			},
+			"stock": true,
+			"originalPrice": 179.99,
+			"sale": "$30 off",
+			"salePrice": 149.99,
+			"payments": {
+				"numberOf": 4,
+				"price": 37.50,
+				"client": "ZIP"
+			},
+			"wishlist": false,
+			"reviews": "4.6 stars out of 5"
+		},
+		{
+			"id": 7,
+			"title": "Really Cool Record Cabinet",
+			"price": 349.99,
 		}
 	]
 }
