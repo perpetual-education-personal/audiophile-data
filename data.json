@@ -76,8 +76,11 @@
 			},
 			"wishlist": false,
 			"reviews": "4.6 stars out of 5"
-			
-
+		},
+		{
+			"id": 7,
+			"title": "Really Cool Record Cabinet",
+			"price": 349.99,
 		}
 
 	]
