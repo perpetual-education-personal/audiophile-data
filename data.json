@@ -13,10 +13,18 @@
 			"price": 80.99,
 		},
 		{
-			"id": 1,
-			"title": "Speaker #3 - burooj test",
+			"id": 2,
+			"title": "Speaker #3",
 			"price": 80.99,
-		}
+		},
+		{
+			"id": 3,
+			"title": "Marshall Stockwell II - Burooj",
+			"type:": "speaker",
+			"price": 299.99,
+			"color": "Black and Brass"
+		},
+
 	]
 }
 
