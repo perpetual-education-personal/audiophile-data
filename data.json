@@ -83,7 +83,7 @@
 			"reviews": 4.5
 		},
 		{
-			"id": 7,
+			"id": 71,
 			"title": "Really Cool Record Cabinet",
 			"price": 349.99,
 		},
@@ -96,6 +96,11 @@
 			"id": 14,
 			"title": "Headphones #1",
 			"price": 99.99
+		}
+		{
+			"id": 15,
+			"title": "Headphones #2",
+			"price": 89.99
 		}
 	]
 }
