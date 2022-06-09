@@ -82,13 +82,13 @@
 			"payments": {
 				"numberOf": 4,
 				"price": 37.50,
+			},
 			"payments" : {
 				"numberOf" : 4,
 				"price" : 37.50,
 				"client": "ZIP"
 			},
 			"wishlist": false,
-			"reviews": 4.5
 			"reviews": 4.5,
 			"promotions" :"",
 			"colors" : {
@@ -140,14 +140,10 @@
 		{
 			"id": "sdfgdf45",
 			"title": "Speaker Cable",
-<<<<<<< HEAD
+
 			"price": 25.99,
 		},
 		
-=======
-			"price": 25.99
-		}
->>>>>>> d4e22cd0590030c08a5de777a58b8d1ed738021a
 	
 		{
 			"id": 101,
