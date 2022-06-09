@@ -118,6 +118,28 @@
 				"bluetoothMemory": 8,
 				"weightinKg": 3.6
 				}
+		},
+		{
+			"id": 712,
+			"partNumber": "EHV-SPK10",
+			"brand": "Metra AV",
+			"name": "Velox Audiophile 12g Terminated Speaker Cables",
+			"productCategory": "Speaker Wire & Connectors",
+			"image": "images/speaker-cables.jpeg",
+			"condition": "new",
+			"colors": [],
+			"available": "in_stock",
+			"stockIsLow": true,
+
+			"priceInDollars": 499.99,
+			"salePriceInDollars": 279.99,
+			"warrantyInYears": 99,
+			"freeShipping": true,
+
+			"avgCustomerReview": 4.8,
+
+			"specifications": {}
 		}
+
 	]
 }
