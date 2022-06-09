@@ -91,16 +91,49 @@
 			"id": "sdfgdf45",
 			"title": "Speaker Cable",
 			"price": 25.99,
-		}
+		},
 		{
-			"id": 14,
-			"title": "Headphones #1",
-			"price": 99.99
-		}
+			"id": 101,
+			"image": "https://images.ctfassets.net/8cd2csgvqd3m/4LDrvOSN2bdGyvQbYIKRfj/d7a0760a01d00c4b11b077be6d7701de/Beoplay_h95_-_black_-_hero.png?q=90&fm=webp&w=1200&h=1200&fit=fill",
+			"brand": "Bang & Olufsen",
+			"name": "Beoplay H95",
+			"color": "Gold",
+			"category": "headphones",
+			"tagline": "Ultimate over-ear headphones",
+			"description": "Moving, masterful, mesmerising. Get lost in your music with adjustable noise-cancelling headphones that redefine grab-and-go listening. ",
+			"price": 899.00,
+			"options": ["noise-cancelling", "38 hour battery life", "bluetooth 5.1"],
+			"on-sale": false,
+			"stock": "In Stock" //using "In Stock", "Low", or "Sold Out" per Burooj's suggestion
+		},
 		{
-			"id": 15,
-			"title": "Headphones #2",
-			"price": 89.99
-		}
+			"id": 102,
+			"image": "https://images.ctfassets.net/8cd2csgvqd3m/6bTX0OAVpZY2fMPE8j4fIt/e50cd9e8afb73dfeb84e37f9a5be36b5/Beoplay-EX-Gold-Tone-Earbuds.png?q=90&fm=webp&w=1200&h=1200&fit=fill",
+			"brand": "Bang & Olufsen",
+			"name": "Beoplay EX",
+			"color": "Black",
+			"category": "headphones",
+			"tagline": "Next-gen wireless earbuds",
+			"description": "As versatile as they are beautiful, these earbuds with wireless charging case and active noise cancellation bring deep sound and snug comfort in one sleek package.",
+			"price": 399.00,
+			"options": ["noise-cancelling", "waterproof", "20 hour battery life", "bluetooth 5.2"],
+			"on-sale": true,
+			"stock": "Low" //using "In Stock", "Low", or "Sold Out" per Burooj's suggestion
+		},
+		{
+			"id": 103,
+			"image": "https://images.ctfassets.net/8cd2csgvqd3m/3zMbwPFhHDHkbq31CIjGdg/0e3d357d10844f4a72592ddd82bd98ca/HX_Timber_Hero.png?q=90&fm=webp&w=1200&h=1200&fit=fill",
+			"brand": "Bang & Olufsen",
+			"name": "Beoplay HX",
+			"color": "White",
+			"category": "headphones",
+			"tagline": "Comfortable, do-it-all headphones",
+			"description": "Wireless noise-cancelling headphones. Listen in comfort whether you're on a call, working from home or taking a moment for yourself.",
+			"price": 499.00,
+			"options": ["noise-cancelling", "waterproof", "20 hour battery life", "bluetooth 5.2"],
+			"on-sale": false,
+			"stock": "Sold Out" //using "In Stock", "Low", or "Sold Out" per Burooj's suggestion
+		},
+
 	]
 }
