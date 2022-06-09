@@ -86,6 +86,11 @@
 			"id": 7,
 			"title": "Really Cool Record Cabinet",
 			"price": 349.99,
+		},
+		{
+			"id": "sdfgdf45",
+			"title": "Speaker Cable",
+			"price": 25.99,
 		}
 	]
 }
