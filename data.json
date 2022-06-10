@@ -132,12 +132,6 @@
 			}
 		},
 		{
-			"id": 71,
-			"title": "Really Cool Record Cabinet",
-			"price": 349.99,
-			"price": 349.99
-		},
-		{
 			"id": "sdfgdf45",
 			"title": "Speaker Cable",
 
@@ -188,6 +182,48 @@
 			"on-sale": false,
 			"stock": "Sold Out" //using "In Stock", "Low", or "Sold Out" per Burooj's suggestion
 		},
+		{
+			"id": 104,
+			"image": ,
+			"brand" ,
+			"name": "Really Cool Record Cabinet",
+			"color" ,
+			"category": ,
+			"tagline": ,
+			"description": ,
+			"price": 349.99,
+			"features": ,
+			"on-sale": ,
+			"stock": ,
+		},
+		{
+			"id": 105,
+			"image": ,
+			"brand" ,
+			"name": "Really Cool Record Cabinet",
+			"color" ,
+			"category": ,
+			"tagline": ,
+			"description": ,
+			"price": 349.99,
+			"features": ,
+			"on-sale": ,
+			"stock": ,
+		},
+		{
+			"id": 106,
+			"image": ,
+			"brand" ,
+			"name": "Really Cool Record Cabinet",
+			"color" ,
+			"category": ,
+			"tagline": ,
+			"description": ,
+			"price": 349.99,
+			"features": ,
+			"on-sale": ,
+			"stock": ,
+		}
 
 	]
 }
