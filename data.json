@@ -129,7 +129,8 @@
 			"stock": "In stock",
 
    	},
-    	{
+    	{	
+    		"id": 110,
 			"image": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw220feee8/JBL_Bar_2.0_All-On-One_Hero_1605x1605.png?sw=680&sh=680",
 			"brand": "JBL",
 			"name": "Bar 2.0 All-in-One",
