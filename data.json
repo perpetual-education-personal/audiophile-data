@@ -143,5 +143,57 @@
 			"on-sale": false,
 			"stock": 9,
 		},
+<<<<<<< HEAD
+=======
+		{	
+    		"id": 112,
+			"image": "https://m.media-amazon.com/images/I/51caOANCJAS._AC_SX425_.jpg",
+			"brand": "KEF",
+			"name": "LSX Wireless Music System",
+			"color": "olive",
+			"category": "wireless speakers",
+			"tagline": "Play anything. Hear everything.",
+			"description": "The convenience and connectivity of wireless. LSX is the speaker system for the way we listen today. ",
+			"price": 999.99,
+			"features": ["Apple AirPlay 2", "contoured baffle"],
+			"on-sale": true,
+			"stock": "Low",
+		},
+				{	
+    		"id": 113,
+			"image": "https://www.gcaudio.com/images/uploads/1078/tecdas_af5_premium_above_no_arm.jpg",
+			"brand": "Techdas",
+			"name": "Air Force Five Premium Turntable",
+			"color": "metallic",
+			"category": "turntable",
+			"tagline": "Compact size, affordable, and designed to the highest standards",
+			"description": "The Air Force V Premium has been developed to deliver another dimension in analog sound and at the same time be accessible to more analog enthusiasts",
+			"price": 1520.00,
+			"features": ["air-bearing platter", "vacuum record hold-down"],
+			"on-sale": false,
+			"stock": "Low",
+		},
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> c892fb112f002904d5bad9d1df82d0477a1cd9d0
 	]
 }
