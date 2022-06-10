@@ -1,8 +1,5 @@
-{
 	"products": {
 					"62": {
-
-						
 							"image" : "https://www.marshallheadphones.com/dw/image/v2/BCQL_PRD/on/demandware.static/-/Sites-zs-master-catalog/default/dw3c9b80df/images/marshall/speakers/stockwell-ii/pitch-black-and-brass/large/Stockwell-II_Brass_POS-1.png",
 							"brand" : "Marshall",
 							"name" : "Stockwell II",
@@ -16,7 +13,6 @@
 							"stock" : 15
 						},
 					"63": {
-						
 						"image" : "https://images.samsung.com/is/image/samsung/p6pim/ca/sm-r190nzkaxac/gallery/ca-galaxy-buds-pro-r190-sm-r190nzkaxac-530313778?$730_584_PNG$",
 						"brand" : "Samsung",
 						"name" : "Galaxy Buds Pro",
@@ -30,7 +26,6 @@
 						"stock" : 150
 					},
 					"634": {
-
 						"image" : "https://www.sony.ca/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF",
 						"brand" : "Sony",
 						"name" : "WH-1000XM4",
@@ -44,8 +39,6 @@
 						"stock" : 125
 					},
 					"6e3": {
-
-
 						"image": "https://images.ctfassets.net/8cd2csgvqd3m/4LDrvOSN2bdGyvQbYIKRfj/d7a0760a01d00c4b11b077be6d7701de/Beoplay_h95_-_black_-_hero.png?q=90&fm=webp&w=1200&h=1200&fit=fill",
 						"brand": "Bang & Olufsen",
 						"name": "Beoplay H95",
@@ -59,7 +52,6 @@
 						"stock": "In Stock"
 					},
 					"6g2343": {
-
 						"image": "https://images.ctfassets.net/8cd2csgvqd3m/6bTX0OAVpZY2fMPE8j4fIt/e50cd9e8afb73dfeb84e37f9a5be36b5/Beoplay-EX-Gold-Tone-Earbuds.png?q=90&fm=webp&w=1200&h=1200&fit=fill",
 						"brand": "Bang & Olufsen",
 						"name": "Beoplay EX",
@@ -97,7 +89,6 @@
 						"features": ["record player", "8 track player", "built in speakers"],
 						"on-sale": false,
 						"stock": 1
-
 					},
 					"62c323c3": {
 						"image": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw1c85efc7/JBL_BAR_5.1_Group_Shot_3_x2-1605x1605px.png?sw=680&sh=680",
@@ -207,18 +198,4 @@
 
 			}
 }		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
