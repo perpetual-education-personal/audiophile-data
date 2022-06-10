@@ -16,7 +16,7 @@
 			"price" : 199.99,
 			"features" : ["portable", "20+ hour battery life", "bluetooth 5.0", "IPX4 water resistant"],
 			"on-sale" : true,
-			"stock" : 15,
+			"stock" : 15
 		},
 		{
 			"id": 63,
@@ -30,7 +30,7 @@
 			"price" : 189.99,
 			"features" : ["true wireless", "bluetooth 5.0", "IPX7 dust and water resistant", "360 audio"],
 			"on-sale" : false,
-			"stock" : 150,
+			"stock" : 150
 		},
 		{
 			"id": 64,
@@ -44,8 +44,9 @@
 			"price" : 399.99,
 			"features" : ["wireless", "noise cancelling", "bluetooth 5.0", "360 audio", "Multipoint connection"],
 			"on-sale" : true,
-			"stock" : 125,
+			"stock" : 125
 		},
+
 
 		{
 
@@ -221,6 +222,7 @@
 			"on-sale": false,
 			"stock": "Low",
 		}
+		
 	]
 }
 
