@@ -2,33 +2,55 @@
 	"id": 1,
 	"title": "Audiophile data",
 	"products": [
+		// burooj---
 		{
-			"id": 0,
-			"title": "Example product title",
-			"price": 40.99
-		},
-		{
-			"id": 1,
-			"title": "Speaker #2",
-			"price": 80.99
-		},
-		{
-
-			"id": 2,
-			"title": "Speaker #3",
-			"price": 80.99,
-		},
-		{
+			"id": 62,
 			"image" : "https://www.marshallheadphones.com/dw/image/v2/BCQL_PRD/on/demandware.static/-/Sites-zs-master-catalog/default/dw3c9b80df/images/marshall/speakers/stockwell-ii/pitch-black-and-brass/large/Stockwell-II_Brass_POS-1.png",
-			"name" : "Marshall Stockwell II",
+			"brand" : "Marshall",
+			"name" : "Stockwell II",
+			"color" : "black and brass",
+			"category" : "speaker",
 			"tagline" : "travels light, sounds heavy",
 			"description" : "Weighing only 1.4 kg, Stockwell II packs a solid punch despite its pint-sized frame. Utilising True Stereophonic, this speaker provides a multi-directional experience that will immerse you in your music, indoors or out.",
-			"type" : "speaker",
+			
 			"price" : 199.99,
 			"options" : ["portable", "20+ hour battery life", "bluetooth 5.0", "IPX4 water resistant"],
 			"on-sale" : true,
-			"stock" : ["in-stock", "low", "sold-out"]
+			"stock" : 15,
 		},
+		{
+			"id": 63,
+			"image" : "https://images.samsung.com/is/image/samsung/p6pim/ca/sm-r190nzkaxac/gallery/ca-galaxy-buds-pro-r190-sm-r190nzkaxac-530313778?$730_584_PNG$",
+			"brand" : "Samsung",
+			"name" : "Galaxy Buds Pro",
+			"color" : "Phantom Black",
+			"category" : "wireless earbuds",
+			"tagline" : "Tunes out noises, tunes in voices",
+			"description" : "Truly wireless earbuds, with pro-grade technology for immersive sound like never before from Galaxy. Use Intelligent ANC to seamlessly switch between noise canceling and adjustable ambient sound so you can let the outside in — or keep it out. It’s your world. Galaxy Buds Pro lets you hear more of what you want.",
+			
+			"price" : 189.99,
+			"options" : ["true wireless", "bluetooth 5.0", "IPX7 dust and water resistant", "360 audio"],
+			"on-sale" : false,
+			"stock" : 150,
+		},
+		{
+			"id": 64,
+			"image" : "https://www.sony.ca/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF",
+			"brand" : "Sony",
+			"name" : "WH-1000XM4",
+			"color" : "silver",
+			"category" : "headphones",
+			"tagline" : "Be at one with your music",
+			"description" : "Discover how the WH-1000XM4 headphones blend our most advanced noise cancelling with exceptional sound quality and a range of smart features for an unrivalled listening experience.",
+			
+			"price" : 399.99,
+			"options" : ["wireless", "noise cancelling", "bluetooth 5.0", "360 audio", "Multipoint connection"],
+			"on-sale" : true,
+			"stock" : 125,
+		},
+		// ---burooj
+
+
 		{
 			"id": 99,
 			"title": "Andy Test Item",
@@ -45,7 +67,7 @@
 			"price": 20.99
 		},
 		{	
-			"id": 1,
+			"id": 45654,
 			"title": "Speaker #3",
 			"price": 70.99
 		},
@@ -54,20 +76,26 @@
 			"title": "Microphone",
 			"price": 109.99
 		},
+ 		{
+			"id": "sakjhfdkjsaf67sdf87a",
+			"title": "Rock box",
+			"price": 200000
+		},
 		{
 			"id": 29,
 			"title": "Roku Smart Soundbar—Roku® Streambar® Pro",
-			"type" : "Home Theater Media Player",
+			"type": "Home Theater Media Player",
 			"image": "images/roku.jpeg",
 			"protectionPlan": {
-				"price" : 24.99,
+				"price": 24.99,
 				"term": "4 years",
-				"review": "96% of reviewers would recommed",
+				"review": 96,
 				"purchased": false
 			},
-			"stock": true,
+			"on-sale" :true,
+			"stock": 25,
 			"originalPrice": 179.99,
-			"sale" : "$30 off",
+			"sale" : 30,
 			"salePrice": 149.99,
 			"payments" : {
 				"numberOf" : 4,
@@ -75,11 +103,68 @@
 				"client": "ZIP"
 			},
 			"wishlist": false,
-			"reviews": "4.6 stars out of 5"
-			
-
+			"reviews": 4.5,
+			"promotions" :"",
+			"colors" : {
+				"black": 25, 
+				"white": 25
+			}
+		},
+		{
+			"id": 99,
+			"title": "Apple HomePod mini",
+			"type": "Wireless Speakerhomep",
+			"image": "images/homepod.jpeg",
+			"protectionPlan": {
+				"price": 15.99,
+				"term": "2 years",
+				"review": 95,
+				"purchased": false
+			},
+			"on-sale" :false,
+			"stock": 10,
+			"originalPrice": 99.99,
+			"sale" : 0,
+			"salePrice": 99.99,
+			"payments" : {
+				"numberOf" : 4,
+				"price" : 25,
+				"client": "ZIP"
+			},
+			"wishlist": false,
+			"reviews": 4.5,
+			"promotions": [
+				"Free Apple Music for up to 6 months",
+				"Free Apple News+ for up to 6 months",
+				"Free Apple TV+ for 3 months"
+			],
+			"colors": {
+				"black": 10,
+				"white": 15,
+				"orange": 0,
+				"yellow" : 0
+			}
+		},
+		{
+			"id": 71,
+			"title": "Really Cool Record Cabinet",
+			"price": 349.99
+		},
+		{
+			"id": "sdfgdf45",
+			"title": "Speaker Cable",
+			"price": 25.99
+		}
+		{
+			"id": 14,
+			"title": "Headphones #1",
+			"price": 99.99
+		}
+		{
+			"id": 15,
+			"title": "Headphones #2",
+			"price": 89.99
 		}
 
 	]
 }
-
