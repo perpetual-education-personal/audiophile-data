@@ -127,6 +127,20 @@
 			"features": ["DJ Pad", "Karaoke function", "Lightshow", "Mic and Guitar inputs", "USB Playback", "TWS and RCA", "USB charging for external devices", "Concealed Wheels",],
 			"on-sale": false,
 			"stock": "In stock",
-   	 },
+
+   	},
+    	{
+			"image": "https://www.jbl.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw220feee8/JBL_Bar_2.0_All-On-One_Hero_1605x1605.png?sw=680&sh=680",
+			"brand": "JBL",
+			"name": "Bar 2.0 All-in-One",
+			"color": "black",
+			"category": "sound bar",
+			"tagline": "Surround yourself with sound",
+			"description": "Immerse yourself in your favourite film, feel the energy of the crowd at the big game or rock out in your living room. ",
+			"price": 199.99,
+			"features": ["sound bar", "subwoofer"],
+			"on-sale": false,
+			"stock": 9,
+		},
 	]
 }
