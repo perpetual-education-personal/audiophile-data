@@ -3,149 +3,6 @@
 	"title": "Audiophile data",
 	"products": [
 		{
-			"id": 0,
-			"title": "Example product title",
-			"price": 40.99,
-			"colors": ["red", "blue", "green"]
-		},
-		{
-			"id": 1,
-			"title": "Speaker #2",
-			"price": 80.99
-		},
-		{
-			"id": 2,
-			"title": "Speaker #3",
-			"price": 80.99
-		},
-		{
-			"image": "https://www.marshallheadphones.com/dw/image/v2/BCQL_PRD/on/demandware.static/-/Sites-zs-master-catalog/default/dw3c9b80df/images/marshall/speakers/stockwell-ii/pitch-black-and-brass/large/Stockwell-II_Brass_POS-1.png",
-			"name": "Marshall Stockwell II",
-			"tagline": "travels light, sounds heavy",
-			"description": "Weighing only 1.4 kg, Stockwell II packs a solid punch despite its pint-sized frame. Utilising True Stereophonic, this speaker provides a multi-directional experience that will immerse you in your music, indoors or out.",
-			"type": "speaker",
-			"price": 199.99,
-			"options": ["portable", "20+ hour battery life", "bluetooth 5.0", "IPX4 water resistant"],
-			"on-sale": true,
-			"stock": 5,
-		},
-		{
-			"id": 99,
-			"title": "Andy Test Item",
-			"price": 0.99
-		},
-		{
-			"id": 11,
-			"title": "John's Boombox #1",
-			"price": 999.99
-		},
-		{
-			"id": 100,
-			"title": "John's Boombox #2",
-			"price": 20.99
-		},
-		{	
-			"id": 45654,
-			"title": "Speaker #3",
-			"price": 70.99
-		},
-		{
-			"id": 10,
-			"title": "Microphone",
-			"price": 109.99
-		},
-		{
- 		{
-			"id": "sakjhfdkjsaf67sdf87a",
-			"title": "Rock box",
-			"price": 200000
-		},
-		{
-			"id": 29,
-			"title": "Roku Smart Soundbar—Roku® Streambar® Pro",
-			"type": "Home Theater Media Player",
-			"image": "images/roku.jpeg",
-			"protectionPlan": {
-				"price": 24.99,
-				"term": "4 years",
-				"review": "96% of reviewers would recommed",
-				"review": 96,
-				"purchased": false
-			},
-			"stock": true,
-			"on-sale" :true,
-			"stock": 25,
-			"originalPrice": 179.99,
-			"sale": "$30 off",
-			"sale" : 30,
-			"salePrice": 149.99,
-			"payments": {
-				"numberOf": 4,
-				"price": 37.50,
-			},
-			"payments" : {
-				"numberOf" : 4,
-				"price" : 37.50,
-				"client": "ZIP"
-			},
-			"wishlist": false,
-			"reviews": 4.5,
-			"promotions" :"",
-			"colors" : {
-				"black": 25, 
-				"white": 25
-			}
-		},
-		{
-			"id": 99,
-			"title": "Apple HomePod mini",
-			"type": "Wireless Speakerhomep",
-			"image": "images/homepod.jpeg",
-			"protectionPlan": {
-				"price": 15.99,
-				"term": "2 years",
-				"review": 95,
-				"purchased": false
-			},
-			"on-sale" :false,
-			"stock": 10,
-			"originalPrice": 99.99,
-			"sale" : 0,
-			"salePrice": 99.99,
-			"payments" : {
-				"numberOf" : 4,
-				"price" : 25,
-				"client": "ZIP"
-			},
-			"wishlist": false,
-			"reviews": 4.5,
-			"promotions": [
-				"Free Apple Music for up to 6 months",
-				"Free Apple News+ for up to 6 months",
-				"Free Apple TV+ for 3 months"
-			],
-			"colors": {
-				"black": 10,
-				"white": 15,
-				"orange": 0,
-				"yellow" : 0
-			}
-		},
-		{
-			"id": 71,
-			"title": "Really Cool Record Cabinet",
-			"price": 349.99,
-			"price": 349.99
-		},
-		{
-			"id": "sdfgdf45",
-			"title": "Speaker Cable",
-
-			"price": 25.99,
-		},
-		
-	
-		{
 			"id": 101,
 			"image": "https://images.ctfassets.net/8cd2csgvqd3m/4LDrvOSN2bdGyvQbYIKRfj/d7a0760a01d00c4b11b077be6d7701de/Beoplay_h95_-_black_-_hero.png?q=90&fm=webp&w=1200&h=1200&fit=fill",
 			"brand": "Bang & Olufsen",
@@ -159,7 +16,6 @@
 			"on-sale": false,
 			"stock": "In Stock" //using "In Stock", "Low", or "Sold Out" per Burooj's suggestion
 		},
-
 		{
 			"id": 102,
 			"image": "https://images.ctfassets.net/8cd2csgvqd3m/6bTX0OAVpZY2fMPE8j4fIt/e50cd9e8afb73dfeb84e37f9a5be36b5/Beoplay-EX-Gold-Tone-Earbuds.png?q=90&fm=webp&w=1200&h=1200&fit=fill",
@@ -188,6 +44,48 @@
 			"on-sale": false,
 			"stock": "Sold Out" //using "In Stock", "Low", or "Sold Out" per Burooj's suggestion
 		},
+		{
+			"id": 104,
+			"image": ,
+			"brand" ,
+			"name": "Really Cool Record Cabinet",
+			"color" ,
+			"category": ,
+			"tagline": ,
+			"description": ,
+			"price": 349.99,
+			"features": ,
+			"on-sale": ,
+			"stock": ,
+		},
+		{
+			"id": 105,
+			"image": ,
+			"brand" ,
+			"name": "Really Cool Record Cabinet",
+			"color" ,
+			"category": ,
+			"tagline": ,
+			"description": ,
+			"price": 349.99,
+			"features": ,
+			"on-sale": ,
+			"stock": ,
+		},
+		{
+			"id": 106,
+			"image": ,
+			"brand" ,
+			"name": "Really Cool Record Cabinet",
+			"color" ,
+			"category": ,
+			"tagline": ,
+			"description": ,
+			"price": 349.99,
+			"features": ,
+			"on-sale": ,
+			"stock": ,
+		}
 
 	]
 }
