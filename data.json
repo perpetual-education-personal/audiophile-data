@@ -56,7 +56,7 @@
 			"price": 349.99,
 			"features": ["record player", "8 track player", "built in speakers"],
 			"on-sale": false,
-			"stock": 1,
+			"stock": 1
 		},
 		{
 			"id": 105,
@@ -84,7 +84,7 @@
 			"price": 199.99,
 			"features": ["sound bar", "subwoofer"],
 			"on-sale": false,
-			"stock": 9,
+			"stock": 9
 		},
 		{
 			"id": 107,
@@ -98,7 +98,7 @@
 			"price": 229.00,
 			"features": ["low volume", "high volume", "App controlled", "15 hours playtime",],
 			"on-sale": false,
-			"stock": "In stock",
+			"stock": "In stock"
 		},
 		{
 			"id": 108,
@@ -112,7 +112,7 @@
 			"price": 149.99,
 			"features": ["Ultimate workout fit with Jabra ShakeGrip", "Active Noise Cancellation", "Adjustable HearThrough", "Up to 30 hours", "Dust & Water Proof (IP57)", "Microphone",],
 			"on-sale": true,
-			"stock": "In stock",
+			"stock": "In stock"
 		},
 		{
 			"id": 109,
@@ -126,7 +126,7 @@
 			"price": 1299.95,
 			"features": ["DJ Pad", "Karaoke function", "Lightshow", "Mic and Guitar inputs", "USB Playback", "TWS and RCA", "USB charging for external devices", "Concealed Wheels",],
 			"on-sale": false,
-			"stock": "In stock",
+			"stock": "In stock"
 
    	},
     	{	
@@ -141,7 +141,7 @@
 			"price": 199.99,
 			"features": ["sound bar", "subwoofer"],
 			"on-sale": false,
-			"stock": 9,
+			"stock": 9
 		},
 		{	
     		"id": 112,
@@ -155,7 +155,7 @@
 			"price": 999.99,
 			"features": ["Apple AirPlay 2", "contoured baffle"],
 			"on-sale": true,
-			"stock": "Low",
+			"stock": "Low"
 		},
 				{	
     		"id": 113,
@@ -169,28 +169,11 @@
 			"price": 1520.00,
 			"features": ["air-bearing platter", "vacuum record hold-down"],
 			"on-sale": false,
-			"stock": "Low",
-		},
+			"stock": "Low"
+		}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+		
 	]
 }
+
+
