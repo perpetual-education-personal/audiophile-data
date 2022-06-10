@@ -1,16 +1,16 @@
-	"products": {
+	{"products": {
 					"62": {
-							"image" : "https://www.marshallheadphones.com/dw/image/v2/BCQL_PRD/on/demandware.static/-/Sites-zs-master-catalog/default/dw3c9b80df/images/marshall/speakers/stockwell-ii/pitch-black-and-brass/large/Stockwell-II_Brass_POS-1.png",
-							"brand" : "Marshall",
-							"name" : "Stockwell II",
-							"color" : "black and brass",
-							"category" : "speaker",
-							"tagline" : "travels light, sounds heavy",
-							"description" : "Weighing only 1.4 kg, Stockwell II packs a solid punch despite its pint-sized frame. Utilising True Stereophonic, this speaker provides a multi-directional experience that will immerse you in your music, indoors or out.",
-							"price" : 199.99,
-							"features" : ["portable", "20+ hour battery life", "bluetooth 5.0", "IPX4 water resistant"],
-							"on-sale" : true,
-							"stock" : 15
+						"image" : "https://www.marshallheadphones.com/dw/image/v2/BCQL_PRD/on/demandware.static/-/Sites-zs-master-catalog/default/dw3c9b80df/images/marshall/speakers/stockwell-ii/pitch-black-and-brass/large/Stockwell-II_Brass_POS-1.png",
+						"brand" : "Marshall",
+						"name" : "Stockwell II",
+						"color" : "black and brass",
+						"category" : "speaker",
+						"tagline" : "travels light, sounds heavy",
+						"description" : "Weighing only 1.4 kg, Stockwell II packs a solid punch despite its pint-sized frame. Utilising True Stereophonic, this speaker provides a multi-directional experience that will immerse you in your music, indoors or out.",
+						"price" : 199.99,
+						"features" : ["portable", "20+ hour battery life", "bluetooth 5.0", "IPX4 water resistant"],
+						"on-sale" : true,
+						"stock" : 15
 						},
 					"63": {
 						"image" : "https://images.samsung.com/is/image/samsung/p6pim/ca/sm-r190nzkaxac/gallery/ca-galaxy-buds-pro-r190-sm-r190nzkaxac-530313778?$730_584_PNG$",
@@ -194,7 +194,47 @@
 						"features": ["air-bearing platter", "vacuum record hold-down"],
 						"on-sale": false,
 						"stock": "Low"
+					},
+					"blah1": {	
+						"image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6455/6455163_sd.jpg;maxHeight=640;maxWidth=550",
+						"brand": "Roku",
+						"name": "Roku Streambar Pro",
+						"color": "black",
+						"category": "sound bar",
+						"tagline": "4K/HD/HDR Streaming Media Player & Cinematic Sound",
+						"description": "It’s the ultimate 2-in-1 entertainment upgrade with cinematic sound and powerful streaming for any TV. Fill your room with clear dialogue and dynamic bass as you watch what you love in brilliant 4K picture quality and vivid HDR color.",
+						"price": 149.99,
+						"features": ["Cinematic sound", "Brilliant 4K picture quality", "Simple sound settings", "No more juggling remotes"],
+						"on-sale": true,
+						"stock": 20
+					},
+					"blah2": {	
+						"image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-mini-select-spacegray-202110_FV1?wid=1868&hei=880&fmt=jpeg&qlt=90&.v=1633086020000",
+						"brand": "Apple",
+						"name": "Homepod Mini",
+						"color": ["space grey", "white","blue","yellow","orange"],
+						"category": "speaker",
+						"tagline": "You’ve never heard color like this.",
+						"description": "Room-filling, 360-degree sound. Place HomePod mini speakers around the house for rich multiroom audio¹ and features like Intercom",
+						"price": 99.00,
+						"features": ["Room-filling sound","An intelligent assistant", "Control your smart home","Works seamlessly with iPhone","Private and secure"],
+						"on-sale": false,
+						"stock": 10
+					},
+					"blah3": {	
+						"image": "https://media.sweetwater.com/api/i/q-82__f-webp__ha-e220b0fedbfd507e__hmac-5a7596c9daec0420cf3198786d7b512f81f02eef/images/items/750/Rokit5G4-large.jpg.auto.webp",
+						"brand": "KRK",
+						"name": "ROKIT 5 G4 5 inch Powered Studio Monitor",
+						"color": "black",
+						"category": "studio monitor",
+						"tagline": "An optimized high-frequency waveguide ensures a wide, deep, dynamic sweet spot and incredible imaging",
+						"description": "The KRK Rokit 5 was built from high-grade materials, and it shows. The extreme rigidity and impressive tensile strength-to-weight ratio of its Kevlar drivers ensure low-distortion sound reproduction across the entire frequency range",
+						"price": 169.99,
+						"features": ["Rigid Kevlar drivers ensure low-distortion sound reproduction", "Optimized high-frequency waveguide produces a wide, deep, dynamic sweet spot", "Low-resonance enclosure gives you spot-on low-end performance", "High-quality sound at reduced operating temperatures"],
+						"on-sale": true,
+						"stock": 5
 					}
+
 
 			}
 }		
