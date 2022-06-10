@@ -155,7 +155,7 @@
 			"tagline": "Ultimate over-ear headphones",
 			"description": "Moving, masterful, mesmerising. Get lost in your music with adjustable noise-cancelling headphones that redefine grab-and-go listening. ",
 			"price": 899.00,
-			"options": ["noise-cancelling", "38 hour battery life", "bluetooth 5.1"],
+			"features": ["noise-cancelling", "38 hour battery life", "bluetooth 5.1"],
 			"on-sale": false,
 			"stock": "In Stock" //using "In Stock", "Low", or "Sold Out" per Burooj's suggestion
 		},
@@ -170,7 +170,7 @@
 			"tagline": "Next-gen wireless earbuds",
 			"description": "As versatile as they are beautiful, these earbuds with wireless charging case and active noise cancellation bring deep sound and snug comfort in one sleek package.",
 			"price": 399.00,
-			"options": ["noise-cancelling", "waterproof", "20 hour battery life", "bluetooth 5.2"],
+			"features": ["noise-cancelling", "waterproof", "20 hour battery life", "bluetooth 5.2"],
 			"on-sale": true,
 			"stock": "Low" //using "In Stock", "Low", or "Sold Out" per Burooj's suggestion
 		},
@@ -184,7 +184,7 @@
 			"tagline": "Comfortable, do-it-all headphones",
 			"description": "Wireless noise-cancelling headphones. Listen in comfort whether you're on a call, working from home or taking a moment for yourself.",
 			"price": 499.00,
-			"options": ["noise-cancelling", "waterproof", "20 hour battery life", "bluetooth 5.2"],
+			"features": ["noise-cancelling", "waterproof", "20 hour battery life", "bluetooth 5.2"],
 			"on-sale": false,
 			"stock": "Sold Out" //using "In Stock", "Low", or "Sold Out" per Burooj's suggestion
 		},
