@@ -56,7 +56,7 @@
 			"price": 349.99,
 			"features": ["record player", "8 track player", "built in speakers"],
 			"on-sale": false,
-			"stock": 1,
+			"stock": 1
 		},
 		{
 			"id": 105,
@@ -70,7 +70,7 @@
 			"price": 699.99,
 			"features": ["sound bar", "subwoofer", "wireless surround sound speakers", "remote"],
 			"on-sale": true,
-			"stock": 7,
+			"stock": 7
 		},
 		{
 			"id": 106,
@@ -84,7 +84,7 @@
 			"price": 199.99,
 			"features": ["sound bar", "subwoofer"],
 			"on-sale": false,
-			"stock": 9,
+			"stock": 9
 		},
 		{
 			"id": 107,
@@ -98,7 +98,7 @@
 			"price": 229.00,
 			"features": ["low volume", "high volume", "App controlled", "15 hours playtime",],
 			"on-sale": false,
-			"stock": "In stock",
+			"stock": "In stock"
 		},
 		{
 			"id": 108,
@@ -112,7 +112,7 @@
 			"price": 149.99,
 			"features": ["Ultimate workout fit with Jabra ShakeGrip", "Active Noise Cancellation", "Adjustable HearThrough", "Up to 30 hours", "Dust & Water Proof (IP57)", "Microphone",],
 			"on-sale": true,
-			"stock": "In stock",
+			"stock": "In stock"
 		},
 		{
 			"id": 109,
@@ -126,7 +126,7 @@
 			"price": 1299.95,
 			"features": ["DJ Pad", "Karaoke function", "Lightshow", "Mic and Guitar inputs", "USB Playback", "TWS and RCA", "USB charging for external devices", "Concealed Wheels",],
 			"on-sale": false,
-			"stock": "In stock",
+			"stock": "In stock"
 
    	},
     	{	
@@ -141,7 +141,21 @@
 			"price": 199.99,
 			"features": ["sound bar", "subwoofer"],
 			"on-sale": false,
-			"stock": 9,
+			"stock": 9
+		},
+		{	
+    		"id": 111,
+			"image": "https://cdn11.bigcommerce.com/s-c2jb8p2u1p/images/stencil/1280x1280/products/192/584/cardas-clear-beyond-speaker_01__96621.1572271154.jpg?c=1",
+			"brand": "Cardas",
+			"name": "Clear Beyond Speaker Cable",
+			"color": "blue",
+			"category": "speaker cables",
+			"tagline": "2013 Absolute Sound Editors' Choice Award Winner",
+			"price": 9220.00,
+			"description": "The Cardas Clear Beyond Speaker Cable is simply that, it is beyond the demands of any loud speaker or amplifier combination imaginable.",
+			"features": ["multi-stage connector", "Teflon dielectric type"],
+			"on-sale": false,
+			"stock": "Low"
 		},
 		{	
     		"id": 112,
@@ -157,7 +171,7 @@
 			"on-sale": true,
 			"stock": "Low",
 		},
-				{	
+		{	
     		"id": 113,
 			"image": "https://www.gcaudio.com/images/uploads/1078/tecdas_af5_premium_above_no_arm.jpg",
 			"brand": "Techdas",
@@ -170,27 +184,6 @@
 			"features": ["air-bearing platter", "vacuum record hold-down"],
 			"on-sale": false,
 			"stock": "Low",
-		},
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+		}
 	]
 }
