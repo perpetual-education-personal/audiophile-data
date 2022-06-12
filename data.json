@@ -9,21 +9,21 @@
 							"color" : "black and brass",
 							"category" : "speaker",
 							"tagline" : "travels light, sounds heavy",
-							"description" : "Weighing only 1.4 kg, Stockwell II packs a solid punch despite its pint-sized frame. Utilising True Stereophonic, this speaker provides a multi-directional experience that will immerse you in your music, indoors or out.",
+							"description" : "Weighing only 1.4 kg, Stockwell II packs a solid punch despite its pint-sized frame. With True Stereophonic, this speaker provides a multi-directional experience that will immerse you in your music, indoors or out.",
 							"price" : 199.99,
 							"features" : ["portable", "20+ hour battery life", "bluetooth 5.0", "IPX4 water resistant"],
 							"on-sale" : true,
 							"stock" : 15
-						},
+					},
 					"63": {
 						
-						"image" : "https://images.samsung.com/is/image/samsung/p6pim/ca/sm-r190nzkaxac/gallery/ca-galaxy-buds-pro-r190-sm-r190nzkaxac-530313778?$730_584_PNG$",
+						"image" : "https://images.samsung.com/is/image/samsung/p6pim/ca_fr/galaxy-s21/gallery/ca-fr-galaxy-buds-pro-r190-sm-r190nzkaxac-363169117?$2160_1728_PNG$",
 						"brand" : "Samsung",
 						"name" : "Galaxy Buds Pro",
 						"color" : "Phantom Black",
 						"category" : "wireless earbuds",
 						"tagline" : "Tunes out noises, tunes in voices",
-						"description" : "Truly wireless earbuds, with pro-grade technology for immersive sound like never before from Galaxy. Use Intelligent ANC to seamlessly switch between noise canceling and adjustable ambient sound so you can let the outside in — or keep it out. It’s your world. Galaxy Buds Pro lets you hear more of what you want.",
+						"description" : "Now with pro-grade technology for immersive sound like never before from Galaxy. Intelligent ANC seamlessly switchs between noise canceling and adjustable ambient sound so you can let the outside in — or keep it out.",
 						"price" : 189.99,
 						"features" : ["true wireless", "bluetooth 5.0", "IPX7 dust and water resistant", "360 audio"],
 						"on-sale" : false,
@@ -31,7 +31,7 @@
 					},
 					"634": {
 
-						"image" : "https://www.sony.ca/image/5d02da5df552836db894cead8a68f5f3?fmt=pjpeg&wid=165&bgcolor=FFFFFF&bgc=FFFFFF",
+						"image" : "https://www.sony.com/image/5d02da5df552836db894cead8a68f5f3?fmt=png-alpha&wid=440",
 						"brand" : "Sony",
 						"name" : "WH-1000XM4",
 						"color" : "silver",
@@ -158,7 +158,7 @@
 						"color": "Black",
 						"category": "Bluetooth Speaker",
 						"tagline": "The Ultimate Party Machine!",
-						"description": "The JBL PartyBox 1000 is a powerful party speaker with JBL sound quality and exciting full panel light show. Just plug in your Mic or Guitar and take the stage or stream your playlist via Bluetooth or from a USB stick. The LED lit DJ and Party Band bring concert to your party! Connect two PartyBox speakers wirelessly with the TWS feature or wired from one RCA output to another RCA input. Let's get the party started!",
+						"description": "The JBL PartyBox 1000 is a powerful party speaker with JBL sound quality and exciting full panel light show. Just plug in your Mic or Guitar and take the stage or stream your playlist via Bluetooth or from a USB stick. Let's get the party started!",
 						"price": 1299.95,
 						"features": ["DJ Pad", "Karaoke function", "Lightshow", "Mic and Guitar inputs", "USB Playback", "TWS and RCA", "USB charging for external devices", "Concealed Wheels"],
 						"on-sale": false,
@@ -179,7 +179,7 @@
 						"stock": 9
 					},
 					"6366": {	
-						"image": "https://m.media-amazon.com/images/I/51caOANCJAS._AC_SX425_.jpg",
+						"image": "https://cdn.shopify.com/s/files/1/1659/9697/products/greenfront_800x.png?v=1608403622",
 						"brand": "KEF",
 						"name": "LSX Wireless Music System",
 						"color": "olive",
