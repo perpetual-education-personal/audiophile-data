@@ -1,5 +1,4 @@
 {	"products": {
-
 					"62": {
 						"image" : "https://www.marshallheadphones.com/dw/image/v2/BCQL_PRD/on/demandware.static/-/Sites-zs-master-catalog/default/dw3c9b80df/images/marshall/speakers/stockwell-ii/pitch-black-and-brass/large/Stockwell-II_Brass_POS-1.png",
 						"brand" : "Marshall",
@@ -50,7 +49,7 @@
 						"price": 899.00,
 						"features": ["noise-cancelling", "38 hour battery life", "bluetooth 5.1"],
 						"on-sale": false,
-						"stock": "In Stock"
+						"stock": 100
 					},
 					"6g2343": {
 						"image": "https://images.ctfassets.net/8cd2csgvqd3m/6bTX0OAVpZY2fMPE8j4fIt/e50cd9e8afb73dfeb84e37f9a5be36b5/Beoplay-EX-Gold-Tone-Earbuds.png?q=90&fm=webp&w=1200&h=1200&fit=fill",
@@ -63,7 +62,7 @@
 						"price": 399.00,
 						"features": ["noise-cancelling", "waterproof", "20 hour battery life", "bluetooth 5.2"],
 						"on-sale": true,
-						"stock": "Low"
+						"stock": 4
 					},
 					"63c2": {
 						"image": "https://images.ctfassets.net/8cd2csgvqd3m/3zMbwPFhHDHkbq31CIjGdg/0e3d357d10844f4a72592ddd82bd98ca/HX_Timber_Hero.png?q=90&fm=webp&w=1200&h=1200&fit=fill",
@@ -76,7 +75,7 @@
 						"price": 499.00,
 						"features": ["noise-cancelling", "waterproof", "20 hour battery life", "bluetooth 5.2"],
 						"on-sale": false,
-						"stock": "Sold Out"
+						"stock": 0
 					},
 					"62c33": {
 						"image": "https://1qodm53j3f5g8ih7xj3cfijm-wpengine.netdna-ssl.com/wp-content/uploads/2020/06/record-credenza-6.jpeg",
@@ -168,7 +167,7 @@
 						"price": 999.99,
 						"features": ["Apple AirPlay 2", "contoured baffle"],
 						"on-sale": true,
-						"stock": "Low"
+						"stock": 5
 					},
 					"623acn3": {	
 						"image": "https://www.gcaudio.com/images/uploads/1078/tecdas_af5_premium_above_no_arm.jpg",
@@ -181,7 +180,7 @@
 						"price": 1520.00,
 						"features": ["air-bearing platter", "vacuum record hold-down"],
 						"on-sale": false,
-						"stock": "Low"
+						"stock": 2
 					},
 					"blah1": {	
 						"image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6455/6455163_sd.jpg;maxHeight=640;maxWidth=550",
