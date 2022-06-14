@@ -6,7 +6,7 @@
 						"name" : "Stockwell II",
 						"color" : ["black", "brass"],
 						"category" : "speaker",
-						"tagline" : "travels light, sounds heavy",
+						"tagline" : "Travels light, sounds heavy",
 						"description" : "Weighing only 1.4 kg, Stockwell II packs a solid punch despite its pint-sized frame. With True Stereophonic, this speaker provides a multi-directional experience that will immerse you in your music, indoors or out.",
 						"price" : 199.99,
 						"features" : ["portable", "20+ hour battery life", "bluetooth 5.0", "IPX4 water resistant"],
@@ -111,7 +111,7 @@
 						"name": "SoundLink around-ear wireless headphones II",
 						"color": ["black"],
 						"category": "headphones",
-						"tagline": "wireless freedom",
+						"tagline": "Wireless freedom",
 						"description": "A better wireless experience starts with what you hear. With a combination of TriPort technology and Active EQ, SoundLink wireless headphones deliver crisp, powerful sound at any volume.",
 						"price": 229.00,
 						"features": ["low volume", "high volume", "App controlled", "15 hours playtime"],
@@ -185,7 +185,7 @@
 						"stock": 2
 					},
 					"blah1": {	
-						"image": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6455/6455163_sd.jpg;maxHeight=640;maxWidth=550",
+						"image": "https://cigars.roku.com/v1/http%3A%2F%2Fimage.roku.com%2Fw%2Frapid%2Fimages%2Fpdp-carousel-items%2F883eef12-6924-410a-8292-c592ba10c1d6.png",
 						"brand": "Roku",
 						"name": "Roku Streambar Pro",
 						"color": ["black"],
@@ -198,7 +198,7 @@
 						"stock": 20
 					},
 					"blah2": {	
-						"image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/homepod-mini-select-spacegray-202110_FV1?wid=1868&hei=880&fmt=jpeg&qlt=90&.v=1633086020000",
+						"image": "https://www.dimprice.com/au/image/cache/png/apple-homepod-mini/Black/apple-homepod-mini-01-1200x1200.png",
 						"brand": "Apple",
 						"name": "Homepod Mini",
 						"color": ["space grey", "white","blue","yellow","orange"],
@@ -231,7 +231,7 @@
 						"category": "speaker",
 						"tagline": "The iconic Klipschorn is the original, three-way, fully horn-loaded loudspeaker that laid the foundation for the Klipsch brand.",
 						"description": "The KRK Rokit 5 was built from high-grade materials. The extreme rigidity and impressive tensile strength-to-weight ratio of its Kevlar drivers ensure low-distortion sound reproduction across the entire frequency range",
-						"price": 16498,
+						"price": 16498.00,
 						"features": ["Three-way design with horn-loaded enclosures", "Premium input and wire management", "Designed and assembled in the USA"],
 						"on-sale": false,
 						"stock": 2
@@ -244,7 +244,7 @@
 						"category": "earphones",
 						"tagline": "What does it take to create category-defining True Wireless earbuds? High-resolution sound and crystal-clear voice calls, plus an industry-first wireless audio retransmission case.",
 						"description": "The KRK Rokit 5 was built from high-grade materials. The extreme rigidity and impressive tensile strength-to-weight ratio of its Kevlar drivers ensure low-distortion sound reproduction across the entire frequency range",
-						"price": 289,
+						"price": 289.00,
 						"features": ["True 24-bit connection with aptX™ Adaptive", "Adaptive active noise-cancellation", "Wireless audio retransmission technology"],
 						"on-sale": true,
 						"stock": 201
@@ -257,25 +257,10 @@
 						"category": "subwoofer",
 						"tagline": "Combining 2000 watts of digital amplification with twin balanced Aerofoil™ drivers for incredible low-end power and speed, DB1D is the best Bowers & Wilkins subwoofer.",
 						"description": "The KRK Rokit 5 was built from high-grade materials. The extreme rigidity and impressive tensile strength-to-weight ratio of its Kevlar drivers ensure low-distortion sound reproduction across the entire frequency range",
-						"price": 5899,
+						"price": 5899.00,
 						"features": ["Infrasonic depth", "Room calibration", "Extensive EQ options"],
 						"on-sale": false,
 						"stock": 17
 					}
 			}
 }		
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
