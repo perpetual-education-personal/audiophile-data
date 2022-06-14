@@ -222,6 +222,45 @@
 						"features": ["Rigid Kevlar drivers ensure low-distortion sound reproduction", "Optimized high-frequency waveguide produces a wide, deep, dynamic sweet spot", "Low-resonance enclosure gives you spot-on low-end performance", "High-quality sound at reduced operating temperatures"],
 						"on-sale": true,
 						"stock": 5
+					},
+					"john1": {	
+						"image": "https://klipsch.imgix.net/product-images/Klipschorn-AK6-Carousel-1.png?auto=format&crop=focalpoint&domain=klipsch.imgix.net&fit=crop&fp-x=0.5&fp-y=0.5&h=1920&ixlib=php-3.3.1&q=82&w=1920",
+						"brand": "Klipsch",
+						"name": "Klipsch AK6",
+						"color": ["Walnut"],
+						"category": "speaker",
+						"tagline": "The iconic Klipschorn is the original, three-way, fully horn-loaded loudspeaker that laid the foundation for the Klipsch brand.",
+						"description": "The KRK Rokit 5 was built from high-grade materials. The extreme rigidity and impressive tensile strength-to-weight ratio of its Kevlar drivers ensure low-distortion sound reproduction across the entire frequency range",
+						"price": 16498,
+						"features": ["Three-way design with horn-loaded enclosures", "Premium input and wire management", "Designed and assembled in the USA"],
+						"on-sale": false,
+						"stock": 2
+					},
+					"john2": {	
+						"image": "https://www.bowerswilkins.com/-/media/images/bowerswilkins/p17/p17_img_charcoal_02.png",
+						"brand": "Bowers & Wilkins",
+						"name": "P17",
+						"color": ["charcoal"],
+						"category": "earphones",
+						"tagline": "What does it take to create category-defining True Wireless earbuds? High-resolution sound and crystal-clear voice calls, plus an industry-first wireless audio retransmission case.",
+						"description": "The KRK Rokit 5 was built from high-grade materials. The extreme rigidity and impressive tensile strength-to-weight ratio of its Kevlar drivers ensure low-distortion sound reproduction across the entire frequency range",
+						"price": 289,
+						"features": ["True 24-bit connection with aptX™ Adaptive", "Adaptive active noise-cancellation", "Wireless audio retransmission technology"],
+						"on-sale": true,
+						"stock": 201
+					},
+					"john3": {	
+						"image": "https://www.bowerswilkins.com/-/media/images/bowerswilkins/db1d/db1d_img_gloss_black_01.png",
+						"brand": "Bowers & Wilkins",
+						"name": "DB1D",
+						"color": ["Gloss Black"],
+						"category": "subwoofer",
+						"tagline": "Combining 2000 watts of digital amplification with twin balanced Aerofoil™ drivers for incredible low-end power and speed, DB1D is the best Bowers & Wilkins subwoofer.",
+						"description": "The KRK Rokit 5 was built from high-grade materials. The extreme rigidity and impressive tensile strength-to-weight ratio of its Kevlar drivers ensure low-distortion sound reproduction across the entire frequency range",
+						"price": 5899,
+						"features": ["Infrasonic depth", "Room calibration", "Extensive EQ options"],
+						"on-sale": false,
+						"stock": 17
 					}
 
 			}
